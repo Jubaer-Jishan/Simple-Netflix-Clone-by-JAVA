@@ -1,0 +1,5 @@
+here will be created 3 files for every user.
+
+one will be for their personal details.
+one will be for their purchased contents.
+one will be for their favourite contents.
